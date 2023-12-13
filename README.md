@@ -1,8 +1,8 @@
 # [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟩 All systems operational**
 
-Visit the site [George Wellington]([https://www.linkedin.com/in/george-wellington-4977a3195/](https://georgewelly.github.io/upriseuptime/))
+Visit the site [Uprise Up(time)](https://georgewelly.github.io/upriseuptime/)
 
-This repository contains the open-source uptime monitor and status page for [Uprise Up(time)](https://www.linkedin.com/in/george-wellington-4977a3195/), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [George Wellington](https://www.linkedin.com/in/george-wellington-4977a3195/), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/georgewelly/upriseuptime/workflows/Uptime%20CI/badge.svg)](https://github.com/georgewelly/upriseuptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/georgewelly/upriseuptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/georgewelly/upriseuptime/actions?query=workflow%3A%22Response+Time+CI%22)
