@@ -11,6 +11,20 @@ sites:
     url: https://www.google.com
   #- name: Test Broken Site
   #  url: https://thissitedoesnotexist.koj.co
+  - name: Sue Ryder
+    url: https://www.sueryder.org/
+  - name: Dementia uk  
+    url: https://www.dementiauk.org/
+  - name: BW site 
+    url: https://www.bwcharity.org.uk/
+  - name: MSC site
+    url: https://www.msc.org/uk
+  - name: MSI Choices site
+    url: https://www.msichoices.org/
+  - name: Royal Voluntary Services
+    url: https://www.royalvoluntaryservice.org.uk/
+  - name: Ten Health & Fitness  
+    url: https://www.ten.co.uk/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
