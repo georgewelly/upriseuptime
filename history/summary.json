@@ -112,19 +112,19 @@
     "url": "https://www.msc.org/uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.msc.org.ico",
     "slug": "msc-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 528,
-    "timeDay": 504,
-    "timeWeek": 528,
-    "timeMonth": 528,
-    "timeYear": 528,
+    "status": "up",
+    "uptime": "99.70%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
+    "time": 554,
+    "timeDay": 556,
+    "timeWeek": 554,
+    "timeMonth": 554,
+    "timeYear": 554,
     "dailyMinutesDown": {
-      "2023-12-15": 0
+      "2023-12-15": 11
     }
   },
   {
