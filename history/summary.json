@@ -112,18 +112,20 @@
     "url": "https://www.msc.org/uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.msc.org.ico",
     "slug": "msc-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 635,
-    "timeDay": 802,
-    "timeWeek": 635,
-    "timeMonth": 635,
-    "timeYear": 635,
-    "dailyMinutesDown": {}
+    "time": 528,
+    "timeDay": 504,
+    "timeWeek": 528,
+    "timeMonth": 528,
+    "timeYear": 528,
+    "dailyMinutesDown": {
+      "2023-12-15": 0
+    }
   },
   {
     "name": "MSI Choices site",
