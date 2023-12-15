@@ -1,7 +1,7 @@
 url: https://www.msc.org/uk
-status: up
-code: 200
-responseTime: 802
-lastUpdated: 2023-12-14T23:14:30.384Z
+status: down
+code: 409
+responseTime: 205
+lastUpdated: 2023-12-15T22:19:24.823Z
 startTime: 2023-12-13T10:59:46.747Z
 generator: Upptime <https://github.com/upptime/upptime>
