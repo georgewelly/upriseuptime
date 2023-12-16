@@ -4,36 +4,40 @@
     "url": "https://www.upriseup.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.upriseup.co.uk.ico",
     "slug": "uprise-up",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 1667,
     "timeDay": 1999,
     "timeWeek": 1667,
     "timeMonth": 1667,
     "timeYear": 1667,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-16": 1
+    }
   },
   {
     "name": "Charity Digital Benchmark",
     "url": "https://www.charitydigitalbenchmark.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.charitydigitalbenchmark.co.uk.ico",
     "slug": "charity-digital-benchmark",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 2665,
     "timeDay": 1914,
     "timeWeek": 2665,
     "timeMonth": 2665,
     "timeYear": 2665,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-16": 0
+    }
   },
   {
     "name": "Google",
@@ -166,19 +170,19 @@
     "url": "https://www.ten.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ten.co.uk.ico",
     "slug": "ten-health-and-fitness",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1468,
-    "timeDay": 1397,
-    "timeWeek": 1468,
-    "timeMonth": 1468,
-    "timeYear": 1468,
+    "status": "up",
+    "uptime": "98.45%",
+    "uptimeDay": "95.95%",
+    "uptimeWeek": "98.45%",
+    "uptimeMonth": "98.45%",
+    "uptimeYear": "98.45%",
+    "time": 4356,
+    "timeDay": 8653,
+    "timeWeek": 4356,
+    "timeMonth": 4356,
+    "timeYear": 4356,
     "dailyMinutesDown": {
-      "2023-12-16": 0
+      "2023-12-16": 58
     }
   }
 ]
