@@ -80,9 +80,9 @@
     "url": "https://www.dementiauk.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.dementiauk.org.ico",
     "slug": "dementia-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -91,7 +91,9 @@
     "timeWeek": 1235,
     "timeMonth": 1211,
     "timeYear": 1211,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-13": 0
+    }
   },
   {
     "name": "BW site",
@@ -173,12 +175,12 @@
     "status": "up",
     "uptime": "99.74%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.45%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.74%",
     "time": 1884,
     "timeDay": 1091,
-    "timeWeek": 1512,
+    "timeWeek": 1392,
     "timeMonth": 1884,
     "timeYear": 1884,
     "dailyMinutesDown": {
