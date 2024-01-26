@@ -80,19 +80,19 @@
     "url": "https://www.dementiauk.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.dementiauk.org.ico",
     "slug": "dementia-uk",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1199,
-    "timeDay": 1239,
-    "timeWeek": 1113,
-    "timeMonth": 1215,
-    "timeYear": 1199,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1201,
+    "timeDay": 1484,
+    "timeWeek": 1134,
+    "timeMonth": 1218,
+    "timeYear": 1201,
     "dailyMinutesDown": {
-      "2024-01-26": 0
+      "2024-01-26": 9
     }
   },
   {
