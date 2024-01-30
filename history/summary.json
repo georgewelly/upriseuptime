@@ -81,19 +81,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dementiauk.org.ico",
     "slug": "dementia-uk",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1205,
     "timeDay": 1188,
-    "timeWeek": 1207,
+    "timeWeek": 1225,
     "timeMonth": 1220,
     "timeYear": 1205,
-    "dailyMinutesDown": {
-      "2024-01-30": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BW site",
@@ -118,9 +116,9 @@
     "url": "https://www.msc.org/uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.msc.org.ico",
     "slug": "msc-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -129,7 +127,9 @@
     "timeWeek": 583,
     "timeMonth": 677,
     "timeYear": 703,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-30": 0
+    }
   },
   {
     "name": "MSI Choices site",
@@ -173,11 +173,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ten.co.uk.ico",
     "slug": "ten-health-and-fitness",
     "status": "up",
-    "uptime": "99.73%",
+    "uptime": "99.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "99.73%",
+    "uptimeYear": "99.74%",
     "time": 1721,
     "timeDay": 1336,
     "timeWeek": 1485,
