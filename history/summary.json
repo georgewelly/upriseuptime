@@ -4,18 +4,19 @@
     "url": "https://www.upriseup.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.upriseup.co.uk.ico",
     "slug": "uprise-up",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1525,
-    "timeDay": 1180,
-    "timeWeek": 1647,
-    "timeMonth": 1541,
-    "timeYear": 1525,
+    "time": 1510,
+    "timeDay": 944,
+    "timeWeek": 1511,
+    "timeMonth": 1517,
+    "timeYear": 1510,
     "dailyMinutesDown": {
+      "2024-02-01": 0,
       "2023-12-16": 28
     }
   },
@@ -32,7 +33,7 @@
     "uptimeYear": "99.96%",
     "time": 2132,
     "timeDay": 2270,
-    "timeWeek": 2380,
+    "timeWeek": 2483,
     "timeMonth": 2051,
     "timeYear": 2132,
     "dailyMinutesDown": {
@@ -81,19 +82,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dementiauk.org.ico",
     "slug": "dementia-uk",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1209,
-    "timeDay": 1246,
-    "timeWeek": 1257,
+    "timeDay": 1138,
+    "timeWeek": 1284,
     "timeMonth": 1223,
     "timeYear": 1209,
-    "dailyMinutesDown": {
-      "2024-02-01": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BW site",
