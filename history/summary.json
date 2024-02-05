@@ -4,10 +4,10 @@
     "url": "https://www.upriseup.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.upriseup.co.uk.ico",
     "slug": "uprise-up",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1517,
@@ -16,6 +16,7 @@
     "timeMonth": 1511,
     "timeYear": 1517,
     "dailyMinutesDown": {
+      "2024-02-05": 1,
       "2023-12-16": 28
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://www.charitydigitalbenchmark.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.charitydigitalbenchmark.co.uk.ico",
     "slug": "charity-digital-benchmark",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -36,6 +37,7 @@
     "timeMonth": 2092,
     "timeYear": 2146,
     "dailyMinutesDown": {
+      "2024-02-05": 0,
       "2023-12-16": 28
     }
   },
@@ -88,7 +90,7 @@
     "uptimeYear": "100.00%",
     "time": 1222,
     "timeDay": 1424,
-    "timeWeek": 1308,
+    "timeWeek": 1329,
     "timeMonth": 1232,
     "timeYear": 1222,
     "dailyMinutesDown": {}
@@ -171,11 +173,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ten.co.uk.ico",
     "slug": "ten-health-and-fitness",
     "status": "up",
-    "uptime": "99.71%",
+    "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.63%",
     "uptimeMonth": "99.63%",
-    "uptimeYear": "99.71%",
+    "uptimeYear": "99.72%",
     "time": 2076,
     "timeDay": 1459,
     "timeWeek": 4335,
