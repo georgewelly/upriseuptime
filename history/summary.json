@@ -170,7 +170,7 @@
     "url": "https://www.ten.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ten.co.uk.ico",
     "slug": "ten-health-and-fitness",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
     "uptimeDay": "96.36%",
     "uptimeWeek": "98.70%",
@@ -182,6 +182,7 @@
     "timeMonth": 2517,
     "timeYear": 2205,
     "dailyMinutesDown": {
+      "2024-02-15": 0,
       "2024-02-14": 52,
       "2024-02-13": 79,
       "2024-02-03": 38,
