@@ -80,9 +80,9 @@
     "url": "https://www.dementiauk.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.dementiauk.org.ico",
     "slug": "dementia-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -91,7 +91,9 @@
     "timeWeek": 1242,
     "timeMonth": 1230,
     "timeYear": 1227,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-16": 0
+    }
   },
   {
     "name": "BW site",
@@ -172,12 +174,12 @@
     "slug": "ten-health-and-fitness",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "96.71%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.23%",
     "uptimeMonth": "99.35%",
     "uptimeYear": "99.57%",
     "time": 2182,
-    "timeDay": 1283,
+    "timeDay": 1131,
     "timeWeek": 1389,
     "timeMonth": 2489,
     "timeYear": 2182,
