@@ -81,19 +81,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dementiauk.org.ico",
     "slug": "dementia-uk",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1241,
     "timeDay": 1605,
     "timeWeek": 1331,
     "timeMonth": 1286,
     "timeYear": 1241,
-    "dailyMinutesDown": {
-      "2024-02-26": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BW site",
@@ -172,9 +170,9 @@
     "url": "https://www.ten.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ten.co.uk.ico",
     "slug": "ten-health-and-fitness",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.30%",
     "uptimeYear": "99.58%",
@@ -184,6 +182,7 @@
     "timeMonth": 2417,
     "timeYear": 2060,
     "dailyMinutesDown": {
+      "2024-02-26": 0,
       "2024-02-24": 29,
       "2024-02-17": 29,
       "2024-02-15": 47,
