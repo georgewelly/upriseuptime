@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.charitydigitalbenchmark.co.uk.ico",
     "slug": "charity-digital-benchmark",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 2059,
     "timeDay": 1376,
     "timeWeek": 1513,
@@ -80,9 +80,9 @@
     "url": "https://www.dementiauk.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.dementiauk.org.ico",
     "slug": "dementia-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -91,7 +91,9 @@
     "timeWeek": 1283,
     "timeMonth": 1272,
     "timeYear": 1237,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-29": 0
+    }
   },
   {
     "name": "BW site",
