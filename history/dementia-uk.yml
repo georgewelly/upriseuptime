@@ -1,7 +1,7 @@
 url: https://www.dementiauk.org/
-status: up
-code: 200
-responseTime: 1091
-lastUpdated: 2024-03-03T23:12:54.009Z
+status: down
+code: 500
+responseTime: 4271
+lastUpdated: 2024-03-04T22:27:45.609Z
 startTime: 2023-12-13T10:59:44.177Z
 generator: Upptime <https://github.com/upptime/upptime>
